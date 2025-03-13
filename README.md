@@ -38,9 +38,15 @@ I thrive on the excitement of discovering new technologies and pushing the bound
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you want to **collaborate** on a project or chat about **tech, cybersecurity, or music!** 🎶💻
 
-📬 **Ping me:** 
- 🔗 Linkedin : https://www.linkedin.com/in/om-jadiya-05b045275
- 🔗 Github : https://github.com/Vivid3226/Vivid3226/edit/main/README.md
- 🔗 Mail : 23cs026@charusat.edu.in
+### 📬 Ping me:
+
+<p>
+  <b>🔗 LinkedIn :</b> <a href="https://www.linkedin.com/in/om-jadiya-05b045275">Om Jadiya's Profile</a> <br>
+  <b>🔗 GitHub :</b> <a href="https://github.com/Vivid3226">Vivid3226</a> <br>
+  <b>📧 Mail :</b> <a href="mailto:23cs026@charusat.edu.in">23cs026@charusat.edu.in</a> <br>
+  <b>🌐 Portfolio :</b> <a href="404error">Soon Be Launching !
+  </a>
+</p>
+
 
  
